@@ -2,7 +2,7 @@
 - 👀 I’m interested in fishing
 - 🌱 I’m currently learning python and pytorch
 - 💞️ I’m looking to collaborate on people who do research for software defect prediction
-- 📫 How to reach me ...2425145063@qq.com
+- 📫 How to reach me ...
 
 <!---
 xjp08/xjp08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
